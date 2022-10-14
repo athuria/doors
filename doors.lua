@@ -15,7 +15,6 @@ local VisualsTab = Window:MakeTab({
 local CF = CFrame.new
 local LatestRoom = game:GetService("ReplicatedStorage").GameData.LatestRoom
 local ChaseStart = game:GetService("ReplicatedStorage").GameData.ChaseStart
-Bind:Set(Enum.KeyCode.RightCtrl)
 
 
 local KeyChams = {}
