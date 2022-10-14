@@ -16,7 +16,6 @@ local CF = CFrame.new
 local LatestRoom = game:GetService("ReplicatedStorage").GameData.LatestRoom
 local ChaseStart = game:GetService("ReplicatedStorage").GameData.ChaseStart
 
-
 local KeyChams = {}
 VisualsTab:AddToggle({
 	Name = "Key Chams",
